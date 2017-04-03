@@ -23,5 +23,5 @@ Key objectives :
 Hints :
 
 1. Use of basic OOP Practices
-2. Documentation / Comments
-3. PSR complience
+2. Best code practice
+3. PSR4 complience
